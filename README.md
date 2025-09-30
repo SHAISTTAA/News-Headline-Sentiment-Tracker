@@ -231,9 +231,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-**Shaista** - [Your Email]
+**Shaista** 
 
-Project Link: [https://github.com/yourusername/sentiment-analysis](https://github.com/yourusername/sentiment-analysis)
+
 
 ---
 
@@ -244,3 +244,4 @@ Project Link: [https://github.com/yourusername/sentiment-analysis](https://githu
 ⭐ Star this repo if you found it helpful!
 
 </div>
+
